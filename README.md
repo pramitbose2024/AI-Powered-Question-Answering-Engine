@@ -1,6 +1,4 @@
-Here’s a **professional, structured, recruiter- and GitHub-friendly README** for your Question–Answer Prediction System project:
 
----
 
 # 🤖 Question–Answer Prediction System (RNN-Based)
 
