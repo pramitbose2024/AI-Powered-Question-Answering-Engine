@@ -1,6 +1,6 @@
 
 
-# 🤖 Question–Answer Prediction System (RNN-Based)
+# 🤖 AI-Powered Question Answering Engine (RNN-Based)
 
 **Duration:** September 2025 – October 2025
 **Tech Stack:** Python, PyTorch, NumPy, pandas
